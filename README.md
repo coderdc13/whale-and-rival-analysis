@@ -1,6 +1,5 @@
 # whale-and-rival-analysis
 
-
 """
 Notes for Instructor Grader (IG), Please
 
@@ -21,35 +20,35 @@ student author.
 1 Does any portfolio outperform the S&P 500? (of the given whales and algorithms) WAT 1
 It is hard to tell anything from the daily returns graph alone.
 From the cumulative returns table and graph, the student author is identifying Berkshire and Algo 1 as
-outperforming the S&P 500.
+outperforming the S&P 500. abc45
 
 2 Plot the rolling standard deviation of the various portfolios along with the 
 rolling standard deviation of the S&P 500 (consider a 21 day window). 
 Does the risk increase for each of the portfolios at the same time risk increases in the S&P? WAT 2
 Based on the two graphs above only, in general, except for the Tiger anomalies,
 in terms of general direction, the portfolios go along with the S&P. Greater risk corresponds with greater standard deviation.
-Therefore, in general, the porfolios generally go along with the S&P in terms of risk.
+Therefore, in general, the porfolios generally go along with the S&P in terms of risk. abc60
 
 3 Which returns most closely mimic the S&P? WAT 3
 Based on the S&P row, Algo 2 is the closest mimic, Soros is the second closest, Berkshire is the third closest,
-Paulson is the fourth closest, Tiger is the fifth closest, and Algo 1 is the farthest away. #abc67
+Paulson is the fourth closest, Tiger is the fifth closest, and Algo 1 is the farthest away. #abc62
 
 
 4 Choose one portfolio and plot a rolling beta between that portfolio's returns and S&P 500 returns. 
 Does the portfolio seem sensitive to movements in the S&P 500? WAT 4
 
 The student author did beta graphs for Berkshire and for Tiger. Berkshire seemed sensitive to movements in the S&P 500.
-Tiger did not seem so sensitive to movements in the S&P 500 in later months. abc74
+Tiger did not seem so sensitive to movements in the S&P 500 in later months. abc69
 
 5 (After all, if you could invest in one of two portfolios, 
 each offered the same 10% return, yet one offered lower risk, you'd take that one, right? WAT 5
-Yes, the student author would take the portfolio with the lower risk. abc78
+Yes, the student author would take the portfolio with the lower risk. abc72
 
 6 do our algo strategies outperform both 'the market' and the whales? WAT 6
 WAT 6
 
 It seems like Algo 1 outperforms both the S&P and all of the whales,
-but it also looks like Algo 2 itself underperforms compared with the S&P and Berkshire. abc78
+but it also looks like Algo 2 itself underperforms compared with the S&P and Berkshire. abc72
 
 7 Add your portfolio returns to the DataFrame with the other portfolios and rerun the analysis. How does your portfolio fair?
 WAT 7 answered throughout every comparison with the FRANK HEDGE FUND
@@ -57,25 +56,25 @@ WAT 7 answered throughout every comparison with the FRANK HEDGE FUND
 WAT 7
 It was hard to tell from the graph, but the table clearly indicates that the FRANK HEDGE FUND 
 brought the third highest cumulative
-returns, Algo 1 brought the most, and Berkshire brought the second most... abc102
+returns, Algo 1 brought the most, and Berkshire brought the second most... abc97
 
 
 WAT 7
-Algo 1 has the smallest standard deviation, and FRANK HEDGE FUND has the third largest standard deviation 107
+Algo 1 has the smallest standard deviation, and FRANK HEDGE FUND has the third largest standard deviation 101
 
 WAT 7
 Annualized is multiplying everything by the same constant, so FRANK HEDGE FUND is still the 
-third highest in terms of standard deviation and therefore the third riskiest... 113
+third highest in terms of standard deviation and therefore the third riskiest... 107
 
 WAT 7
-FRANK HEDGE FUND seems to follow the S&P in direction, but on a lower scale... 116
+FRANK HEDGE FUND seems to follow the S&P in direction, but on a lower scale... 110
 
 WAT 7
 In terms of beta, FRANK HEDGE FUND seems to be closer to to the S&P than Tiger, but FRANK HEDGE FUND is not as close to the S&P as Berkshire
-
+120
 WAT 7
 FRANK HEDGE FUND has the second best Sharpe ratio, but is still far behind Algo 1 in terms of Sharpe ratio...
-
+124
 
 
 README QUESTION - One (1) question did not seem to overlap with the other questions
@@ -87,8 +86,7 @@ Create a box plot for each of the returns. Which box has the largest spread? Whi
 1. Create a box plot for each of the returns. Which box has the largest spread? Which has the smallest spread?
 From the box plots, it looks like Tiger has the largest spread and Paulson and Algo 2 having the smallest spreads, 
 with Paulson most likely
-having the smallest spread of all (as may be confirmed in the standard deviation)
-
+having the smallest spread of all (as may be confirmed in the standard deviation) abc50
 
 
 
