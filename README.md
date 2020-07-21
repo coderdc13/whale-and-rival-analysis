@@ -1,7 +1,7 @@
 # whale-and-rival-analysis
 
 """
-Notes for Instructor Grader (IG), Please
+# Notes for Instructor Grader (IG), Please
 
 In terms of citations, in general, 99.99% of work presented inspired by office hours with Instructor GS, 
 Instructor AN, Instructor KS, tutor (Ms. LT), and refresher notebooks.
@@ -19,6 +19,9 @@ interspersed among the README, the starter cells, and the starter markdown.
 These are questions and/or commands given in specific cells in the starter file. As the student author answers
 each one of these questions, the student author notes which WAC question is being answered. The student author 
 apologizes for not answering every question in the cells in order...
+
+## Cells in which answers to WAT and RDM questions are given after the answer in this unique cell/file...
+
 
 # Whale Analysis Text (WAT) Questions
 In terms of Whale Analysis Text (WAT) questions, there were seven (7) questions according to the count of the 
