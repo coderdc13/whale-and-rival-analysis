@@ -1,6 +1,6 @@
 # whale-and-rival-analysis
 
-"""
+
 # Notes for Instructor Grader (IG), Please
 
 In terms of citations, in general, 99.99% of work presented inspired by office hours with Instructor GS, 
@@ -100,6 +100,6 @@ From the box plots, it looks like Tiger has the largest spread and Paulson and A
 with Paulson most likely
 having the smallest spread of all (as may be confirmed in the standard deviation) cell 50
 
+# In order to return the same values as the WAC questions, individual cells may have to be run individually,
+but the student author confirmed that these cells gave the same results/tables/graphs
 
-
-"""
